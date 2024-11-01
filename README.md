@@ -1,3 +1,3 @@
 # ManageS-Starter
 A manage system, in early development<br/>
-一个管理系统，在早期开发阶段
+一个在早期开发阶段的管理系统
